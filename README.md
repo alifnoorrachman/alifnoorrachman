@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifnoorrachman
-- 👀 I’m interested in front end dev and mobile apps dev
-- 🌱 I’m currently learning html, css, js, dart, flutter, bootstrap, and tailwind
+- 👀 I’m interested Data Analyst
+- 🌱 I’m currently learning SQL, PYTHON, BI TOOLS
 - 📫 How to reach me ? just click
 
 <!---
